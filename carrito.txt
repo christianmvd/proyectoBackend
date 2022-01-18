@@ -17,21 +17,21 @@
 			]
 		},
 		{
-			"id": 2,
-			"timestamp": 1642458249972,
+			"id": 3,
+			"timestamp": 1642471431135,
 			"productos": [
 				{
-					"id": 2,
-					"timestamps": 1642455422272,
-					"nombre": "Computadora gamer I7",
-					"descripcion": "para jugar abundanteee",
-					"codigo": "pc1234",
+					"id": 3,
+					"timestamps": 1642455469848,
+					"nombre": "Memoria ryzer 8gb ddr4",
+					"descripcion": "la mejor memoria!",
+					"codigo": "mem1234",
 					"foto": "http://pruebita.com",
-					"precio": "12500",
-					"stock": "25"
+					"precio": "1800",
+					"stock": "14"
 				}
 			]
 		}
 	],
-	"currentId": 2
+	"currentId": 3
 }

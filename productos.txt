@@ -39,7 +39,17 @@
 			"foto": "http://pruebita.com",
 			"precio": "2800",
 			"stock": "24"
+		},
+		{
+			"id": 5,
+			"timestamps": 1642470713062,
+			"nombre": "Parlantes kingston woofer",
+			"descripcion": "los mejores parlantes",
+			"codigo": "parl1234",
+			"foto": "http://pruebita.com",
+			"precio": "5700",
+			"stock": "32"
 		}
 	],
-	"currentId": 4
+	"currentId": 5
 }
